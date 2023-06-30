@@ -1,0 +1,33 @@
+.footer {
+    background-color: #72d2c2;
+    border-top: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .icon-git,
+  .icon-ldin {
+    color: black;
+    font-size: 30px;
+    margin: 0px 35px;
+    transition: all 0.3s ease;
+  }
+  
+  
+  .icon-git:hover {
+    color: rgb(40, 169, 94);
+    transform: scale(1.5);
+  }
+  
+  .icon-ldin:hover {
+    color: rgb(27, 39, 175);
+    transform: scale(1.5);
+  }
+ 
+  
