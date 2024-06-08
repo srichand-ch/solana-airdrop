@@ -23,7 +23,7 @@
 
 <p>1. Clone the repository:</p>
 
-<pre><code>git clone https://github.com/codescalper/solana-airdrop.git</code></pre>
+<pre><code>git clone https://github.com/srichand-ch/solana-airdrop.git</code></pre>
 
 <p>2. Install dependencies:</p>
 
